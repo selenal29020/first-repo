@@ -1,0 +1,24 @@
+h1
+{
+font-size:40px;
+text-shadow: 10px 5px 10px #7C7575;
+text-align: center;
+}
+h2
+{
+  font-size: 12px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color:red
+
+}
+body
+{
+  background-image: url("https://media.giphy.com/media/zeo4Mj16KrRK0/giphy.gif");
+}
+h4
+{
+margin-left: 650px;
+font-size: 32px;
+}

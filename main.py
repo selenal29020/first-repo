@@ -14,6 +14,7 @@ class Username(webapp2.RequestHandler):
         self.response.write(results_template.render())
 
 class Character(webapp2.RequestHandler):
+    def get(self)
 
 
 

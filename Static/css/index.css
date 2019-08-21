@@ -1,6 +1,6 @@
 h1
 {
-font-size:40px;
+font-size:100px;
 text-shadow: 10px 5px 10px #7C7575;
 text-align: center;
 }
@@ -16,9 +16,17 @@ h2
 body
 {
   background-image: url("https://media.giphy.com/media/zeo4Mj16KrRK0/giphy.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  color: grey;
 }
 h4
 {
-margin-left: 650px;
+margin-left: 0px;
 font-size: 32px;
+}
+h5
+{
+  
 }

@@ -26,18 +26,55 @@ h2
 h3
 {
   position: absolute;
-  top: 50px ;
-  left: 330px ;
-  color: #404040;
-  text-shadow: 10px 5px 10px #404040;
+  top: 5px ;
+  left: 195px ;
+  color: grey;
+  text-shadow: 10px 5px 10px #7C7575;
   font-size: 45px
 }
 h4
 {
   position: absolute;
-  top: 50px ;
-  left: 490px ;
-  color: #808080;
-  text-shadow: 10px 5px 10px #404040;
-  font-size: 30px
+  top: 115px ;
+  left: 335px ;
+  color: grey;
+  text-shadow: 10px 5px 10px  #7C7575;
+  font-size: 40px
 }
+h5
+{
+  position: absolute;
+  top: 225px ;
+  left: 476px ;
+  color: grey;
+  text-shadow: 10px 5px 10px  #7C7575;
+  font-size: 25px
+}
+h6
+{
+  position: absolute;
+  top: 275px ;
+  left: 525px ;
+  color: grey;
+  text-shadow: 10px 5px 10px  #7C7575;
+  font-size: 23px
+}
+h7
+{
+  position: absolute;
+  top: 400px ;
+  left: 610px ;
+  color: grey;
+  text-shadow: 10px 5px 10px  #7C7575;
+  font-size: 21px
+}
+h8
+{
+  position: absolute;
+  top: 450px ;
+  left: 650px ;
+  color: grey;
+  text-shadow: 10px 5px 10px  #7C7575;
+  font-size: 20px
+}
+#button{color: grey;}

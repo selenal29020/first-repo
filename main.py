@@ -128,7 +128,7 @@ app = webapp2.WSGIApplication([
     ('/start', StartGameHandler),
     ('/LevelOne', LevelOneHandler),
     ('/LevelTwo', LevelTwoHandler),
-    ('/Death', DeathHandler),
+    ('/death', DeathHandler),
     ('/House', HouseHandler),
     ('/Cave', CaveHandler),
 ], debug=True)

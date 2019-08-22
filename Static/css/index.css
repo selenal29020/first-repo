@@ -26,7 +26,55 @@ h4
 margin-left: 0px;
 font-size: 32px;
 }
-h5
-{
-  
+
+audio{
+  position: absolute;
+   bottom:0.1;
+  left:  1;
+
+}
+
+#textBox{
+
+position: absolute;
+left:0px;
+top: 0px;
+width: 180px;
+height: 60px;
+}
+
+#firstbutton{
+position: absolute;
+font-size: 20px;
+ left: 0px ;
+ top: 180px;
+ background-color:  #801a00;
+ color: #f2f2f2;
+}
+#secondtbutton{
+  position: absolute;
+  font-size: 20px;
+   left: 80px ;
+   top: 180px;
+   background-color:  #801a00;
+   color: #f2f2f2;
+}
+
+#thirdbutton{
+  position: absolute;
+  font-size: 20px;
+   left:  90px ;
+   top: 140px;
+   background-color:  #801a00;
+   color: #f2f2f2;
+}
+
+#foruthbutton{
+  position: absolute;
+  font-size: 20px;
+   left: 0px ;
+   top: 150px;
+   background-color:  #801a00;
+   color: #f2f2f2;
+
 }

@@ -19,7 +19,23 @@ body
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
+  animation:fadeIn6s;
   color: grey;
+  
+  
+@keyframes fadeIn{
+  from{
+    opacity:0;
+  }
+
+  to{
+    opacity: 1;
+  }
+
+/*add text to the box test and the textbox*/
+
+}
+  
 }
 h4
 {

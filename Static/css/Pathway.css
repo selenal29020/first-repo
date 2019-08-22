@@ -1,0 +1,43 @@
+body
+{
+  background-image: url("https://deow9bq0xqvbj.cloudfront.net/image-logo/4827848/utBai2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+h1
+{
+  position: absolute;
+	top: 350px ;
+	right: 187px ;
+  color: grey;
+  text-shadow: 10px 5px 10px #7C7575;
+  font-size: 25px
+}
+h2
+{
+  position: absolute;
+  top: 350px ;
+  left: 300px ;
+  color: grey;
+  text-shadow: 10px 5px 10px #7C7575;
+  font-size: 25px
+}
+h3
+{
+  position: absolute;
+  top: 50px ;
+  left: 330px ;
+  color: #404040;
+  text-shadow: 10px 5px 10px #404040;
+  font-size: 45px
+}
+h4
+{
+  position: absolute;
+  top: 50px ;
+  left: 490px ;
+  color: #808080;
+  text-shadow: 10px 5px 10px #404040;
+  font-size: 30px
+}
